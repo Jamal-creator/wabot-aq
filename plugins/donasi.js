@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
 │ • Xl Axiata [087764684657]
-│ • Telkomsel [083141454827]
+│ • Axis [083141454827]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
